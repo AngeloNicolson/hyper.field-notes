@@ -17,6 +17,8 @@
 
 <br>
 
+# This is my personal environment for hypr, using https://github.com/qxb3/gruvbox.hypr as a starting base 
+
 ## Installation
 
 > [!CAUTION]
