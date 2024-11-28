@@ -5,10 +5,7 @@
 git pull --rebase
 
 rices=(
-  "groove"
   "yume"
-  "yume-nonim-boxy"
-  "vim_styled"
 )
 
 commits=${@}

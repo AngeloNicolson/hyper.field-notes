@@ -11,7 +11,7 @@ custom_paths=(
   "$HOME/.config/swaylock"
   "$HOME/.config/swappy"
   "$HOME/.config/nvim"
-  "$HOME/.config/kitty"
+  "$HOME/.config/foot"
   "$HOME/.config/neofetch"
   "$HOME/.config/cava"
   "$HOME/Downloads"
